@@ -1,0 +1,6 @@
+# 호환성 문제 해결을 위한 안정적인 버전
+streamlit==1.29.0
+openai==1.3.0  # 안정적인 구버전 사용
+toml==0.10.2
+requests==2.31.0
+python-dotenv==1.0.0
